@@ -1,0 +1,17 @@
+*{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fname{
+    border: aquamarine;
+    border-style: double;
+}
+#lname{
+    border:  aquamarine;
+    border-style: double;
+}
+input{
+    border: aquamarine;
+    border-style: double;
+    
+}
